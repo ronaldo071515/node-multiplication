@@ -1,5 +1,5 @@
-/node_modules
-
-/outputs/**/*
+node_modules/
+dist/
+outputs/
 
 notas.md
